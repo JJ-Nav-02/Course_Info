@@ -2,4 +2,5 @@
  Practica 1 laboratorio, actividad donde se sigue practicando las estructuras de los componentes
 
 feb 14, 2023
+Practica 2
 Se siguió mejorando la aplicación haciendola mas eficaz, usando objetos y arreglos.
