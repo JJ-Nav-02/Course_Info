@@ -1,0 +1,11 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './Componentes/App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <h1>Web development Curriculum</h1>
+    <App />
+  </React.StrictMode>
+);
